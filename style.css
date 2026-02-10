@@ -1,0 +1,15 @@
+#section-1 {
+  border: 1px solid black;
+  margin: 30px;
+  padding: 20px;
+  display: flex;
+  /* display: block; */
+}
+
+#section-1 h2 {
+  background-color: #717171;
+}
+
+.first-letter {
+  font-size: 30px;
+}
